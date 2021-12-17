@@ -49,6 +49,6 @@ printf("\n");
 
 printf("Anagram Sequences: ");
 funcC(word,text);
-printf("\n");
+
 
 }
